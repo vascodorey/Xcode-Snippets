@@ -1,8 +1,10 @@
 // #pragma Mark
 // Dividers and labels to organize your code into sections
-// 
-// Platform: All
+//
+// IDECodeSnippetIdentifier: AA466269-6AA7-41B4-9908-CEF517ECBFA5
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 // Language: Objective-C
-// Completion Scopes: Top Level, Class Implementation, Class Interface Methods
+// Platform: All
 
 #pragma mark - <#Section#>
