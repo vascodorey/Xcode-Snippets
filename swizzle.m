@@ -15,7 +15,7 @@
         // When swizzling a class method, use the following:
         // Class class = object_getClass((id)self);
         
-        SEL originalSelector = @selector(<#d);
+        SEL originalSelector = @selector(<#default selector);
         SEL swizzledSelector = @selector(xxx_viewWillAppear:);
         
         Method originalMethod = class_getInstanceMethod(class, originalSelector);
