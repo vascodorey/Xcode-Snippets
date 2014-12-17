@@ -16,7 +16,7 @@
         // Class class = object_getClass((id)self);
         
         SEL originalSelector = @selector(<#default selector#>);
-        SEL swizzledSelector = @selector(<);
+        SEL swizzledSelector = @selector(<#swizzled selector);
         
         Method originalMethod = class_getInstanceMethod(class, originalSelector);
         Method swizzledMethod = class_getInstanceMethod(class, swizzledSelector);
