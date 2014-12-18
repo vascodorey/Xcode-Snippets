@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 664A3CE1-95B8-45C3-A766-F8A82D43762D
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 + (void)load {
     static dispatch_once_t onceToken;
     dispatch_once(&onceToken, ^{
