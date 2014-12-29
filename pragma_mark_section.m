@@ -8,4 +8,4 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 #pragma mark -
-#pragma mark - <# name #
+#pragma mark - <# name #>
