@@ -1,6 +1,7 @@
 // NSLocalizedString
 // 
 //
+// IDECodeSnippetCompletionPrefix: localize
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: BF65BC46-8112-4870-A56B-750F54476790
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
